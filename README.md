@@ -1,1 +1,1 @@
-# Man-don-t-get-angry-C-game
+# Man-don't-get-angry-C-game
